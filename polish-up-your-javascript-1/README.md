@@ -1,4 +1,4 @@
-# Pimp my scripts #01
+# Polish up your JavaScript #01
 
 To get this up and running:
 
